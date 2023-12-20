@@ -18,7 +18,6 @@
 <br>
 
 **🌱Currently Learning/Interested**
-- React
 - AI
 
 <br>
