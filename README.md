@@ -18,10 +18,11 @@
 <br>
 <br>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=korini)](https://solved.ac/korini/)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisupark123&layout=compact&theme=nightowl)](https://github.com/jisupark123/jisupark123) 
 
-  [![jisupark123's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisupark123&theme=nightowl&ount_private=true)](https://github.com/jisupark123/github-readme-stats)
+[![jisupark123's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisupark123&theme=nightowl&ount_private=true)](https://github.com/jisupark123/github-readme-stats)
 
-<br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=korini)](https://solved.ac/korini/)
+
