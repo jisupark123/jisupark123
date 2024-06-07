@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Gmail-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jisupark2000@gmail.com"/>
 </a>
 
-<a href="https://dev-log-three.vercel.app">
+<a href="https://dev-silog.vercel.app">
 <img src="https://img.shields.io/badge/Dev_log-6b7af7?style=flat-square"/>
 </a>
 
