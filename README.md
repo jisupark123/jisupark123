@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://dev-silog.vercel.app">
-<img src="https://img.shields.io/badge/Dev_log-6b7af7?style=flat-square"/>
+<img src="https://img.shields.io/badge/개발 블로그-6b7af7?style=flat-square"/>
 </a>
 
 <a href="https://velog.io/@ice-prince">
